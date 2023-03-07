@@ -1,1 +1,2 @@
-# BurgerVeen.github.io
+#BurgerVeen Regels 
+{niet schelden of raar taalgebruik} 
